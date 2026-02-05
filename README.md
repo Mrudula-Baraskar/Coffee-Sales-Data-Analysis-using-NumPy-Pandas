@@ -92,12 +92,17 @@ Calculated using **NumPy**:
 
 ---
 
-## 🧠 What I Learned
-- How NumPy works on real data  
-- Difference between **filtering** and **replacing** values  
+## 🧠 Learned From This Project
+- How NumPy works on real data
+- Difference between **filtering** and **replacing** values 
 - Importance of data shape and structure  
-- Why **logic matters more than syntax**  
-
+- Why **logic matters more than syntax**
+- understanding of NumPy vectorization
+- Practical use of boolean masking
+- Correct use of np.argmax, np.unique, and aggregation functions
+- Improved data analysis mindset
+- Reduced dependency on loops
+  
 ---
 
 ## ⚠ Current Limitations
